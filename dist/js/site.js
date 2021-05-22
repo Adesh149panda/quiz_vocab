@@ -2,7 +2,7 @@
 let questions = [
   {
     id: 1,
-    question: "An evolutionary informed theory of action __________overlapped casual domains.",
+    question: "His __________ expressed relief, and he began to thank God.",
     answer: "countenance",
     options: [
       "bias",
@@ -19,13 +19,13 @@ let questions = [
       "bias",
       "flustered",
       "belabor",
-      "choleric"
+      "lurid"
     ]
   },
   {
     id: 3,
-    question: "Oily brown shadows of faces with a __________ streak in the wrong place, meant Rembrandt.",
-    answer: "lurid",
+    question: "A year later, he moved his studio to _________ Singapore.",
+    answer: "cosmopolitan",
     options: [
       "lurid",
       "flustered",
@@ -79,10 +79,10 @@ let questions = [
   },
   {
     id: 8,
-    question: "The __________ of would-be revolutionaries commanded no widespread support.",
+    question: "Simpson's_________ of quotable defense attorneys consists of men.",
     answer: "coterie",
     options: [
-      "bias",
+      "engrossed",
       "empathetic",
       "coterie",
       "verisimilar"
@@ -90,7 +90,7 @@ let questions = [
   },
   {
     id: 9,
-    question: "He delighted in the young and was___________ in attendance at the Oxford Union, where he was senior librarian.",
+    question: "So when Riady asks for something, the administration pays __________ attention.",
     answer: "assiduous",
     options: [
       "choleric",
@@ -101,13 +101,123 @@ let questions = [
   },
   {
     id: 10,
-    question: "His________ was boyish and so were his acuteness and his transparent but somewhat belated good sense.",
+    question: "How can a man made robot be deprived of its _________?",
     answer: "artlessness",
     options: [
       "artlessness",
       "colloquial",
       "stupefy",
       "bias"
+    ]
+  },
+  {
+    id: 11,
+    question: "Clearly ________, Lemmons gave him a slap on the chest.",
+    answer: "flustered",
+    options: [
+      "artlessness",
+      "engrossed",
+      "bias",
+      "flustered"
+    ]
+  },
+  {
+    id: 12,
+    question: "For instance, numerous customer complaints could __________ a product recall.",
+    answer: "foreshadow",
+    options: [
+      "foreshadow",
+      "verisimilar",
+      "colloquial",
+      "empathetic"
+    ]
+  },
+  {
+    id: 13,
+    question: "You have to be _________ to the needs of the prisoners.",
+    answer: "empathetic",
+    options: [
+      "solecism",
+      "raucous",
+      "empathetic",
+      "choleric"
+    ]
+  },
+  {
+    id: 14,
+    question: "Provisions which _________ African Americans resulted in excluding many poor Whites.",
+    answer: "disenfranchised",
+    options: [
+      "foreshadowed",
+      "disenfranchised",
+      "stupefy",
+      "belabored"
+    ]
+  },
+  {
+    id: 15,
+    question: "His drawing lost the essence due to the _______ strokes marked by his younger brother.",
+    answer: "lurid",
+    options: [
+      "coterie",
+      "bias",
+      "lurid",
+      "solecism"
+    ]
+  },
+  {
+    id: 16,
+    question: "Presidential elections are unpleasant enough without them turning ________ and unseemly.",
+    answer: "raucous",
+    options: [
+      "empathetic",
+      "engrossed",
+      "verisimilar",
+      "raucous"
+    ]
+  },
+  {
+    id: 17,
+    question: "Technology stocks had risen to _________ levels and were about to collapse.",
+    answer: "stupefying",
+    options: [
+      "raucous",
+      "disenfranchise",
+      "stupefying",
+      "colloquial"
+    ]
+  },
+  {
+    id: 18,
+    question: "Other examples of ________ usage in English include contractions or profanity.",
+    answer: "colloquial",
+    options: [
+      "ratify",
+      "colloquial",
+      "cosmopolitan",
+      "countenance"
+    ]
+  },
+  {
+    id: 19,
+    question: "They wander into other lanes as they become _________ in their conversations.",
+    answer: "engrossed",
+    options: [
+      "choleric",
+      "colloquial",
+      "engrossed",
+      "biased"
+    ]
+  },
+  {
+    id: 20,
+    question: "The result is a strikingly _________ explanation of the whole night, in very human terms, based on topography that still exists here.",
+    answer: "verisimilar",
+    options: [
+      "verisimilar",
+      "colloquial",
+      "lurid",
+      "assiduous"
     ]
   }
 ];
