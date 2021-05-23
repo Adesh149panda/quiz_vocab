@@ -224,6 +224,7 @@ let questions = [
 
 let question_count = 0;
 let points = 0;
+let response_array= []; 
 
 window.onload = function() {
   show(question_count);
@@ -242,6 +243,7 @@ function next() {
   console.log(question_count);
 
   let user_answer = document.querySelector("li.option.active").innerHTML;
+  response_array.push(user_answer);
   // check if the answer is right or wrong
   if (user_answer == questions[question_count].answer) {
     points += 10;
