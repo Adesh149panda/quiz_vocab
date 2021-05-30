@@ -2,222 +2,222 @@
 let questions = [
   {
     id: 1,
-    question: "His __________ expressed relief, and he began to thank God.",
-    answer: "countenance",
+    question: "The time of the party is ________ and subject to change.",
+    answer: "tentative",
     options: [
-      "bias",
-      "choleric",
-      "coterie",
-      "countenance"
+      "slight",
+      "forage",
+      "scintillating",
+      "tentative"
     ]
   },
   {
     id: 2,
-    question: "Now the changed_________ of his mind had bred new habits, he was thinking a great deal.",
-    answer: "bias",
+    question: "While I could understand a little of the contract, the majority of the legal text was ________ to me.",
+    answer: "abstruse",
     options: [
-      "bias",
-      "flustered",
-      "belabor",
-      "lurid"
+      "flail",
+      "abstruse",
+      "detrimental",
+      "jovial"
     ]
   },
   {
     id: 3,
-    question: "A year later, he moved his studio to _________ Singapore.",
-    answer: "cosmopolitan",
+    question: "When the boxer got knocked out in the first round, everyone knew it was the beginning of a/an ________ defeat for him. ",
+    answer: "ignominious",
     options: [
-      "lurid",
-      "flustered",
-      "cosmopolitan",
-      "raucous"
+      "vociferous",
+      "ignominious",
+      "incapacitated",
+      "aversion"
     ]
   },
   {
     id: 4,
-    question: "He was a passionate, combative,__________ and difficult man, frequently embroiled in legal disputes.",
-    answer: "choleric",
+    question: "I was looking forward to bushels of fresh, home-grown tomatoes, but a/an ________ killed all my plants just before they became ripe. ",
+    answer: "blight",
     options: [
-      "colloquial",
-      "belabor",
-      "choleric",
-      "empathetic"
+      "blight",
+      "affable",
+      "muse",
+      "mentor"
     ]
   },
   {
     id: 5,
-    question: "Rank and file workers now must __________ the pact.",
-    answer: "ratify",
+    question: "The ________ of violence in the downtown area keeps many tourists from visiting that part of the city. ",
+    answer: "notoriety",
     options: [
-      "raucous",
-      "disenfranchise",
-      "engross",
-      "ratify"
+      "flail",
+      "temperance",
+      "notoriety",
+      "sinistral"
     ]
   },
   {
     id: 6,
-    question: "The politician's constant __________, flustered the audience in the hall.",
-    answer: "belabor",
+    question: "Raising money for worthy causes, Paul is a/an ________ person with a giving spirit.",
+    answer: "benevolent",
     options: [
-      "verisimilar",
-      "cotorie",
-      "belabor",
-      "countenance"
+      "vociferous",
+      "undermine",
+      "muse",
+      "benevolent"
     ]
   },
   {
     id: 7,
-    question: "Anyone who does commit the __________ of talking or writing about class in America is assailed at once by a problem of definition.",
-    answer: "solecism",
+    question: "Although Jane was nervous standing in front of the judge, she held on to her ________ and did not let her nerves get the best of her.",
+    answer: "sangfroid",
     options: [
-      "raucous",
-      "solecism",
-      "foreshadow",
-      "ratify"
+      "jovial",
+      "sangfroid",
+      "obsession",
+      "forage"
     ]
   },
   {
     id: 8,
-    question: "Simpson's_________ of quotable defense attorneys consists of men.",
-    answer: "coterie",
+    question: "My grandmother still does not own a microwave because she believes the radiation could be ________ to her health.",
+    answer: "detrimental",
     options: [
-      "engrossed",
-      "empathetic",
-      "coterie",
-      "verisimilar"
+      "detrimental",
+      "debacle",
+      "abstruse",
+      "notoriety"
     ]
   },
   {
     id: 9,
-    question: "So when Riady asks for something, the administration pays __________ attention.",
-    answer: "assiduous",
+    question: "After suffering from a stroke, the once lively woman was now in a/an ________ state where she could barely even speak. ",
+    answer: "incapacitated",
     options: [
-      "choleric",
-      "assiduous",
-      "ratify",
-      "lurid"
+      "ignominious",
+      "prudent",
+      "incapacitated",
+      "scintillating"
     ]
   },
   {
     id: 10,
-    question: "How can a man made robot be deprived of its _________?",
-    answer: "artlessness",
+    question: "Each time we dine there, Howard manages to ________ the waiter into giving us something for free.",
+    answer: "cajole",
     options: [
-      "artlessness",
-      "colloquial",
-      "stupefy",
-      "bias"
+      "cajole",
+      "muse",
+      "truncate",
+      "undermine"
     ]
   },
   {
     id: 11,
-    question: "Clearly ________, Lemmons gave him a slap on the chest.",
-    answer: "flustered",
+    question: "After the critic saw the play, he described it as a/an ________ masterpiece that captivates with each line of witty dialogue.",
+    answer: "scintillating",
     options: [
-      "artlessness",
-      "engrossed",
-      "bias",
-      "flustered"
+      "anodized",
+      "mentor",
+      "muse",
+      "scintillating"
     ]
   },
   {
     id: 12,
-    question: "For instance, numerous customer complaints could __________ a product recall.",
-    answer: "foreshadow",
+    question: "However, some broods possess a few snails of the opposing hand, and in predominantly ________ broods, the incidence of dextrality is quite high.",
+    answer: "sinistral",
     options: [
-      "foreshadow",
-      "verisimilar",
-      "colloquial",
-      "empathetic"
+      "temperance",
+      "voracious",
+      "sinistral",
+      "affable"
     ]
   },
   {
     id: 13,
-    question: "You have to be _________ to the needs of the prisoners.",
-    answer: "empathetic",
+    question: "Jill had to ________ her presentation so it would not exceed five minutes.",
+    answer: "truncate",
     options: [
-      "solecism",
-      "raucous",
-      "empathetic",
-      "choleric"
+      "truncate",
+      "debacle",
+      "undermine",
+      "flail"
     ]
   },
   {
     id: 14,
-    question: "Provisions which _________ African Americans resulted in excluding many poor Whites.",
+    question: "Determined to never become an alcoholic, Tim exercised ________ whenever he drank alcohol so he wouldn’t drink too much. ",
     answer: "disenfranchised",
     options: [
-      "foreshadowed",
-      "disenfranchised",
-      "stupefy",
-      "belabored"
+      "notoriety",
+      "aversion",
+      "temperance",
+      "prudence"
     ]
   },
   {
     id: 15,
-    question: "His drawing lost the essence due to the _______ strokes marked by his younger brother.",
-    answer: "lurid",
+    question: "Soumya’s ex-boyfriend was deemed a stalker due to his _______ with her by always watching, calling and thinking about her. ",
+    answer: "obsession",
     options: [
-      "coterie",
-      "bias",
-      "lurid",
-      "solecism"
+      "prudence",
+      "obsession",
+      "aversion",
+      "benevolence"
     ]
   },
   {
     id: 16,
-    question: "Presidential elections are unpleasant enough without them turning ________ and unseemly.",
-    answer: "raucous",
+    question: "Soumya had an acute ________ knowing about the verbal conflict between sibasis and girija.",
+    answer: "aversion",
     options: [
-      "empathetic",
-      "engrossed",
-      "verisimilar",
-      "raucous"
+      "cajole",
+      "aversion",
+      "muse",
+      "temperance"
     ]
   },
   {
     id: 17,
-    question: "Technology stocks had risen to _________ levels and were about to collapse.",
-    answer: "stupefying",
+    question: "On the holiday, the children will ________ through the pasture for eggs filled with treasures.",
+    answer: "forage",
     options: [
-      "raucous",
-      "disenfranchise",
-      "stupefying",
-      "colloquial"
+      "obsess",
+      "unbdermine",
+      "forage",
+      "blight"
     ]
   },
   {
     id: 18,
-    question: "Other examples of ________ usage in English include contractions or profanity.",
-    answer: "colloquial",
+    question: "The need for these new industries is either not recognised or is economically ________, leading to discontent.",
+    answer: "unviable",
     options: [
-      "ratify",
-      "colloquial",
-      "cosmopolitan",
-      "countenance"
+      "unviable",
+      "scintillating",
+      "benevolent",
+      "slight"
     ]
   },
   {
     id: 19,
-    question: "They wander into other lanes as they become _________ in their conversations.",
-    answer: "engrossed",
+    question: "The accountant’s financial ________ led him to make wise business decisions and save a ton of money.",
+    answer: "prudence",
     options: [
-      "choleric",
-      "colloquial",
-      "engrossed",
-      "biased"
+      "jovial",
+      "prudence",
+      "muse",
+      "flail"
     ]
   },
   {
     id: 20,
-    question: "The result is a strikingly _________ explanation of the whole night, in very human terms, based on topography that still exists here.",
-    answer: "verisimilar",
+    question: "If you want to look at the country’s problems, start with the _________ of the healthcare system.",
+    answer: "debacle",
     options: [
-      "verisimilar",
-      "colloquial",
-      "lurid",
-      "assiduous"
+      "blight",
+      "aversion",
+      "sinistral",
+      "debacle"
     ]
   }
 ];
