@@ -2,222 +2,222 @@
 let questions = [
   {
     id: 1,
-    question: "The time of the party is ________ and subject to change.",
-    answer: "tentative",
+    question: "The school board will meet to put plans in place to _______ local schools in case of emergency.",
+    answer: "evacuate",
     options: [
-      "slight",
-      "forage",
-      "scintillating",
-      "tentative"
+      "bemoan",
+      "evacuate",
+      "scale",
+      "callow"
     ]
   },
   {
     id: 2,
-    question: "While I could understand a little of the contract, the majority of the legal text was ________ to me.",
-    answer: "abstruse",
+    question: "While the president acknowledges the country’s problems, he does not offer a _______ to cure them. ",
+    answer: "panacea",
     options: [
-      "flail",
-      "abstruse",
-      "detrimental",
-      "jovial"
+      "lumber",
+      "decimation",
+      "finagle",
+      "limerick"
     ]
   },
   {
     id: 3,
-    question: "When the boxer got knocked out in the first round, everyone knew it was the beginning of a/an ________ defeat for him. ",
-    answer: "ignominious",
+    question: "Using computer technology, meteorologists attempt to ________ the future. ",
+    answer: "prognosticate",
     options: [
-      "vociferous",
-      "ignominious",
-      "incapacitated",
-      "aversion"
+      "overwrought",
+      "finagle",
+      "prevalent",
+      "prognosticate"
     ]
   },
   {
     id: 4,
-    question: "I was looking forward to bushels of fresh, home-grown tomatoes, but a/an ________ killed all my plants just before they became ripe. ",
-    answer: "blight",
+    question: "Because the billionaire is known for his ________, many people wait to follow his stock-buying trends.  ",
+    answer: "perspicacity",
     options: [
-      "blight",
-      "affable",
-      "muse",
-      "mentor"
+      "perspicacity",
+      "callow",
+      "detriment",
+      "corollary"
     ]
   },
   {
     id: 5,
-    question: "The ________ of violence in the downtown area keeps many tourists from visiting that part of the city. ",
-    answer: "notoriety",
+    question: "If you have been pulled over for speeding, then your driving record is not _________. ",
+    answer: "impeccable",
     options: [
-      "flail",
-      "temperance",
-      "notoriety",
-      "sinistral"
+      "vulnerable",
+      "impeccable",
+      "intelligible",
+      "robust"
     ]
   },
   {
     id: 6,
-    question: "Raising money for worthy causes, Paul is a/an ________ person with a giving spirit.",
-    answer: "benevolent",
+    question: "There are many scammers on Craigslist who will try to ________ money out of you by buying your property with worthless checks. ",
+    answer: "finagle",
     options: [
-      "vociferous",
-      "undermine",
-      "muse",
-      "benevolent"
+      "discern",
+      "finagle",
+      "lumber",
+      "corrugate"
     ]
   },
   {
     id: 7,
-    question: "Although Jane was nervous standing in front of the judge, she held on to her ________ and did not let her nerves get the best of her.",
-    answer: "sangfroid",
+    question: "When the soldier stole from his peers, he was dismissed from the army for displaying a lack of _________ conduct.",
+    answer: "irreproachable",
     options: [
-      "jovial",
-      "sangfroid",
-      "obsession",
-      "forage"
+      "rationalize",
+      "vulnerable",
+      "irreproachable",
+      "obsessive"
     ]
   },
   {
     id: 8,
-    question: "My grandmother still does not own a microwave because she believes the radiation could be ________ to her health.",
-    answer: "detrimental",
+    question: "The police ignored Jill’s minor ________ because it was her first violation of the law.",
+    answer: "infraction",
     options: [
-      "detrimental",
-      "debacle",
-      "abstruse",
-      "notoriety"
+      "amnesty",
+      "infraction",
+      "callow",
+      "decimation"
     ]
   },
   {
     id: 9,
-    question: "After suffering from a stroke, the once lively woman was now in a/an ________ state where she could barely even speak. ",
-    answer: "incapacitated",
+    question: "As a/an ________ of splitting the company into two separate parts that provided different services, many former customers canceled their subscriptions.",
+    answer: "corollary",
     options: [
-      "ignominious",
-      "prudent",
+      "taciturn",
+      "amnesty",
       "incapacitated",
-      "scintillating"
+      "judicious"
     ]
   },
   {
     id: 10,
-    question: "Each time we dine there, Howard manages to ________ the waiter into giving us something for free.",
-    answer: "cajole",
+    question: "Because Aradhana has a really bad temper, she remains ________ during an argument so she will not say words she will later regret. ",
+    answer: "taciturn",
     options: [
-      "cajole",
-      "muse",
-      "truncate",
-      "undermine"
+      "bemoan",
+      "callow",
+      "taciturn",
+      "irreproachable"
     ]
   },
   {
     id: 11,
-    question: "After the critic saw the play, he described it as a/an ________ masterpiece that captivates with each line of witty dialogue.",
-    answer: "scintillating",
+    question: "A nun is the type of person who would never be viewed as ________ because she does not care about money.",
+    answer: "mercenary",
     options: [
-      "anodized",
-      "mentor",
-      "muse",
-      "scintillating"
+      "mercenary",
+      "detriment",
+      "decimation",
+      "xenophobe"
     ]
   },
   {
     id: 12,
-    question: "However, some broods possess a few snails of the opposing hand, and in predominantly ________ broods, the incidence of dextrality is quite high.",
-    answer: "sinistral",
+    question: "________ at his terminal diagnosis, the patient was preparing to break the news to family.  ",
+    answer: "overwrought",
     options: [
-      "temperance",
-      "voracious",
-      "sinistral",
-      "affable"
+      "robust",
+      "prevalent",
+      "overwrought",
+      "detriment"
     ]
   },
   {
     id: 13,
-    question: "Jill had to ________ her presentation so it would not exceed five minutes.",
-    answer: "truncate",
+    question: "After working for a few weeks at my new job, I realized my _________ boss micro-managed every part of my job.",
+    answer: "magisterial",
     options: [
-      "truncate",
-      "debacle",
-      "undermine",
-      "flail"
+      "intelligible",
+      "magisterial",
+      "uproarious",
+      "cower"
     ]
   },
   {
     id: 14,
-    question: "Determined to never become an alcoholic, Tim exercised ________ whenever he drank alcohol so he wouldn’t drink too much. ",
-    answer: "disenfranchised",
+    question: "Since Mrs. Blackthorn’s husband is the town mayor, she gets most of the city’s catering opportunities because of ________.",
+    answer: "nepotism",
     options: [
-      "notoriety",
-      "aversion",
-      "temperance",
-      "prudence"
+      "limerick",
+      "panacea",
+      "profusion",
+      "nepotism"
     ]
   },
   {
     id: 15,
-    question: "Soumya’s ex-boyfriend was deemed a stalker due to his _______ with her by always watching, calling and thinking about her. ",
-    answer: "obsession",
+    question: "As the game neared its end, the coach told his players to hold a ________ position so their rivals could not score a touchdown.",
+    answer: "tenable",
     options: [
       "prudence",
-      "obsession",
-      "aversion",
-      "benevolence"
+      "controversial",
+      "tenable",
+      "judicious"
     ]
   },
   {
     id: 16,
-    question: "Soumya had an acute ________ knowing about the verbal conflict between sibasis and girija.",
-    answer: "aversion",
+    question: "In order to properly prepare the lab report, the scientist had to make _________ observations during the experiment.",
+    answer: "judicious",
     options: [
-      "cajole",
-      "aversion",
-      "muse",
-      "temperance"
+      "intelligible",
+      "judicious",
+      "prevalent",
+      "detrimental"
     ]
   },
   {
     id: 17,
-    question: "On the holiday, the children will ________ through the pasture for eggs filled with treasures.",
-    answer: "forage",
+    question: "Even before the shoe store opened, there was a/an ________ of customers lined around several blocks to obtain a pair of the athlete’s new sneakers.",
+    answer: "profusion",
     options: [
-      "obsess",
-      "unbdermine",
-      "forage",
-      "blight"
+      "perspicacity",
+      "instigator",
+      "amnesty",
+      "profusion"
     ]
   },
   {
     id: 18,
-    question: "The need for these new industries is either not recognised or is economically ________, leading to discontent.",
-    answer: "unviable",
+    question: "Even though Jack was a ________ football player who only played one game with the junior varsity team, he still hoped to earn a spot on the varsity squad.",
+    answer: "callow",
     options: [
-      "unviable",
-      "scintillating",
-      "benevolent",
+      "prevalent",
+      "callow",
+      "impeccable",
       "slight"
     ]
   },
   {
     id: 19,
-    question: "The accountant’s financial ________ led him to make wise business decisions and save a ton of money.",
-    answer: "prudence",
+    question: "The people fled their homes as the fire threatened to ________ their community.",
+    answer: "decimate",
     options: [
-      "jovial",
-      "prudence",
-      "muse",
-      "flail"
+      "instigate",
+      "discern",
+      "rationalize",
+      "decimate"
     ]
   },
   {
     id: 20,
-    question: "If you want to look at the country’s problems, start with the _________ of the healthcare system.",
-    answer: "debacle",
+    question: "A speech coach will teach the unpolished political candidate how to give ________ responses during the debate.",
+    answer: "intelligible",
     options: [
-      "blight",
-      "aversion",
-      "sinistral",
-      "debacle"
+      "intelligible",
+      "panacea",
+      "limerick",
+      "controversial"
     ]
   }
 ];
