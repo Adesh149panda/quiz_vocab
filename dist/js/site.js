@@ -2,222 +2,222 @@
 let questions = [
   {
     id: 1,
-    question: "The school board will meet to put plans in place to _______ local schools in case of emergency.",
-    answer: "evacuate",
+    question: "Since Samantha really wanted to be an actress, she had no problem paying the _________ tuition for the acting classes.",
+    answer: "exorbitant",
     options: [
-      "bemoan",
-      "evacuate",
-      "scale",
-      "callow"
+      "lucrative",
+      "exorbitant",
+      "protean",
+      "bizarre"
     ]
   },
   {
     id: 2,
-    question: "While the president acknowledges the country’s problems, he does not offer a _______ to cure them. ",
-    answer: "panacea",
+    question: "Aggressive reporters waited outside of the celebrity’s home, ready to _________ him with their ‘in your face’ questioning.  ",
+    answer: "accost",
     options: [
-      "lumber",
-      "decimation",
-      "finagle",
-      "limerick"
+      "accost",
+      "sere",
+      "heed",
+      "rekindle"
     ]
   },
   {
     id: 3,
-    question: "Using computer technology, meteorologists attempt to ________ the future. ",
-    answer: "prognosticate",
+    question: "The film’s purpose is to raise awareness of the _________ in Darfur that continues to take the lives of innocent people. ",
+    answer: "genocide",
     options: [
-      "overwrought",
-      "finagle",
-      "prevalent",
-      "prognosticate"
+      "decadence",
+      "genocide",
+      "powwow",
+      "annex"
     ]
   },
   {
     id: 4,
-    question: "Because the billionaire is known for his ________, many people wait to follow his stock-buying trends.  ",
-    answer: "perspicacity",
+    question: "Because the court has decided to ________ my criminal record, there will be no evidence of my past misdeeds.  ",
+    answer: "expunge",
     options: [
-      "perspicacity",
-      "callow",
-      "detriment",
-      "corollary"
+      "devour",
+      "potent",
+      "annex",
+      "expunge"
     ]
   },
   {
     id: 5,
-    question: "If you have been pulled over for speeding, then your driving record is not _________. ",
-    answer: "impeccable",
+    question: "When I looked at the _________ cat who was dying of starvation, I couldn’t stop the tears from falling.  ",
+    answer: "cadaverous",
     options: [
-      "vulnerable",
-      "impeccable",
-      "intelligible",
-      "robust"
+      "moralistic",
+      "fastidious",
+      "cadaverous",
+      "devour"
     ]
   },
   {
     id: 6,
-    question: "There are many scammers on Craigslist who will try to ________ money out of you by buying your property with worthless checks. ",
-    answer: "finagle",
+    question: "They put some gum in the water in which they _________ the raggs. ",
+    answer: "macerate",
     options: [
-      "discern",
-      "finagle",
-      "lumber",
-      "corrugate"
+      "constraint",
+      "lacerate",
+      "macerate",
+      "wrest"
     ]
   },
   {
     id: 7,
-    question: "When the soldier stole from his peers, he was dismissed from the army for displaying a lack of _________ conduct.",
-    answer: "irreproachable",
+    question: "That year, there was a national _________ with dances and ceremonies.",
+    answer: "powwow",
     options: [
-      "rationalize",
-      "vulnerable",
-      "irreproachable",
-      "obsessive"
+      "genocide",
+      "salvation",
+      "perpetuity",
+      "powwow"
     ]
   },
   {
     id: 8,
-    question: "The police ignored Jill’s minor ________ because it was her first violation of the law.",
-    answer: "infraction",
+    question: "We were not surprised when the film’s villain removed his dagger from his _________ and stabbed the priest.",
+    answer: "scabbard",
     options: [
-      "amnesty",
-      "infraction",
-      "callow",
-      "decimation"
+      "premise",
+      "mar",
+      "furrow",
+      "scabbard"
     ]
   },
   {
     id: 9,
-    question: "As a/an ________ of splitting the company into two separate parts that provided different services, many former customers canceled their subscriptions.",
-    answer: "corollary",
+    question: "Despite Marilyn’s high grade, the professor remained _________ in his assessment of her academic skill. ",
+    answer: "fastidious",
     options: [
-      "taciturn",
-      "amnesty",
-      "incapacitated",
-      "judicious"
+      "cadaverous",
+      "palliative",
+      "fastidious",
+      "protean"
     ]
   },
   {
     id: 10,
-    question: "Because Aradhana has a really bad temper, she remains ________ during an argument so she will not say words she will later regret. ",
-    answer: "taciturn",
+    question: "Even though the Chateau is one of the _________ hotels in the state, it has never been mentioned in any of the best of the nation lists. ",
+    answer: "preeminent",
     options: [
-      "bemoan",
-      "callow",
-      "taciturn",
-      "irreproachable"
+      "preeminent",
+      "bizarre",
+      "rekindle",
+      "benighted"
     ]
   },
   {
     id: 11,
-    question: "A nun is the type of person who would never be viewed as ________ because she does not care about money.",
-    answer: "mercenary",
+    question: "Can you help the poor man over there with some of the __________ lotion that we have? He has a bad knee. ",
+    answer: "palliative",
     options: [
-      "mercenary",
-      "detriment",
-      "decimation",
-      "xenophobe"
+      "lucrative",
+      "potent",
+      "palliative",
+      "sere"
     ]
   },
   {
     id: 12,
-    question: "________ at his terminal diagnosis, the patient was preparing to break the news to family.  ",
-    answer: "overwrought",
+    question: "After examining Jennifer’s hand from every angle, the nurse said that the _________ would heal by itself and that stitches were unnecessary.   ",
+    answer: "laceration",
     options: [
-      "robust",
-      "prevalent",
-      "overwrought",
-      "detriment"
+      "genocide",
+      "laceration",
+      "heed",
+      "macerate"
     ]
   },
   {
     id: 13,
-    question: "After working for a few weeks at my new job, I realized my _________ boss micro-managed every part of my job.",
-    answer: "magisterial",
+    question: "I have an idea for a book, but it is still in its _________ stage and I need to put a lot more thought into it before it is ready.",
+    answer: "embryonic",
     options: [
-      "intelligible",
-      "magisterial",
-      "uproarious",
-      "cower"
+      "embryonic",
+      "lucrative",
+      "superficial",
+      "exorbitant"
     ]
   },
   {
     id: 14,
-    question: "Since Mrs. Blackthorn’s husband is the town mayor, she gets most of the city’s catering opportunities because of ________.",
-    answer: "nepotism",
+    question: "Jessica has decided to attend the Halloween party dressed as the __________ creature known as the unicorn. ",
+    answer: "chimerical",
     options: [
-      "limerick",
-      "panacea",
-      "profusion",
-      "nepotism"
+      "marshal",
+      "chimerical",
+      "disheveled",
+      "moralistic"
     ]
   },
   {
     id: 15,
-    question: "As the game neared its end, the coach told his players to hold a ________ position so their rivals could not score a touchdown.",
-    answer: "tenable",
+    question: "Plantation owners viewed slaves as __________ animals who had to be told what to do at every moment. ",
+    answer: "benighted",
     options: [
-      "prudence",
-      "controversial",
-      "tenable",
-      "judicious"
+      "imperturtable",
+      "benighted",
+      "rekindle",
+      "perpetuable"
     ]
   },
   {
     id: 16,
-    question: "In order to properly prepare the lab report, the scientist had to make _________ observations during the experiment.",
-    answer: "judicious",
+    question: "This will be a unique opportunity to return to school and there will be lots of time to meet old friends and __________ memories.",
+    answer: "rekindle",
     options: [
-      "intelligible",
-      "judicious",
-      "prevalent",
-      "detrimental"
+      "annex",
+      "mar",
+      "rekindle",
+      "eradicate"
     ]
   },
   {
     id: 17,
-    question: "Even before the shoe store opened, there was a/an ________ of customers lined around several blocks to obtain a pair of the athlete’s new sneakers.",
-    answer: "profusion",
+    question: "Wheat grains possess a ________ running along the length of the kernel with a vascular bundle embedded at the bottom.",
+    answer: "furrow",
     options: [
-      "perspicacity",
-      "instigator",
-      "amnesty",
-      "profusion"
+      "furrow",
+      "vie",
+      "marshal",
+      "heed"
     ]
   },
   {
     id: 18,
-    question: "Even though Jack was a ________ football player who only played one game with the junior varsity team, he still hoped to earn a spot on the varsity squad.",
-    answer: "callow",
+    question: "Yet for many making the link, it is undoubtedly his __________ rather than consistency of play that informs comparisons with the people having hot headed assumptions.",
+    answer: "imperturbability",
     options: [
-      "prevalent",
-      "callow",
-      "impeccable",
-      "slight"
+      "constraint",
+      "imperturbability",
+      "salvation",
+      "devour"
     ]
   },
   {
     id: 19,
-    question: "The people fled their homes as the fire threatened to ________ their community.",
-    answer: "decimate",
+    question: "The wealthy businessman was constantly on the lookout for _________ ventures that would help him become even wealthier.",
+    answer: "lucrative",
     options: [
-      "instigate",
-      "discern",
-      "rationalize",
-      "decimate"
+      "lacerative",
+      "powwow",
+      "exorbitant",
+      "lucrative"
     ]
   },
   {
     id: 20,
-    question: "A speech coach will teach the unpolished political candidate how to give ________ responses during the debate.",
-    answer: "intelligible",
+    question: "Since James is a swimming champion, it would do you well to _________ his advice on refining your stroke. ",
+    answer: "heed",
     options: [
-      "intelligible",
-      "panacea",
-      "limerick",
-      "controversial"
+      "heed",
+      "vie",
+      "accost",
+      "rekindle"
     ]
   }
 ];
