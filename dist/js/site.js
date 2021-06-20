@@ -2,222 +2,222 @@
 let questions = [
   {
     id: 1,
-    question: "Since Samantha really wanted to be an actress, she had no problem paying the _________ tuition for the acting classes.",
-    answer: "exorbitant",
+    question: "Whenever Soumya was around Adesh of her dreams, she became _________ and was unable to speak.",
+    answer: "inarticulate",
     options: [
-      "lucrative",
-      "exorbitant",
-      "protean",
-      "bizarre"
+      "gratuitous",
+      "inarticulate",
+      "portent",
+      "envenomous"
     ]
   },
   {
     id: 2,
-    question: "Aggressive reporters waited outside of the celebrity’s home, ready to _________ him with their ‘in your face’ questioning.  ",
-    answer: "accost",
+    question: "Our first _________ were McGuigan and Professor Minnette Massey, one of the first tenured women on the law school. ",
+    answer: "inductees",
     options: [
-      "accost",
-      "sere",
-      "heed",
-      "rekindle"
+      "inductees",
+      "forthrights",
+      "extradites",
+      "caricatures"
     ]
   },
   {
     id: 3,
-    question: "The film’s purpose is to raise awareness of the _________ in Darfur that continues to take the lives of innocent people. ",
-    answer: "genocide",
+    question: "It puts an end to fugitives from justice, an end to the complications of the political process to _________ criminal suspects. ",
+    answer: "extradite",
     options: [
-      "decadence",
-      "genocide",
-      "powwow",
-      "annex"
+      "envenom",
+      "lambast",
+      "resuscitate",
+      "extradite"
     ]
   },
   {
     id: 4,
-    question: "Because the court has decided to ________ my criminal record, there will be no evidence of my past misdeeds.  ",
-    answer: "expunge",
+    question: "I should have thought that, apart from other objections, that would have been extremely cumbersome and ________ machinery.  ",
+    answer: "ponderous",
     options: [
-      "devour",
-      "potent",
-      "annex",
-      "expunge"
+      "ambiguous",
+      "upshot",
+      "ponderous",
+      "analogous"
     ]
   },
   {
     id: 5,
-    question: "When I looked at the _________ cat who was dying of starvation, I couldn’t stop the tears from falling.  ",
-    answer: "cadaverous",
+    question: "The relationship between _________ and self-control may be understood as similar discounting processes for extrinsic reinforcement, social and temporal.  ",
+    answer: "altruism",
     options: [
-      "moralistic",
-      "fastidious",
-      "cadaverous",
-      "devour"
+      "contrive",
+      "ambivalent",
+      "altruism",
+      "sanguine"
     ]
   },
   {
     id: 6,
-    question: "They put some gum in the water in which they _________ the raggs. ",
-    answer: "macerate",
+    question: "The prime minister said that small businesses would play a full part in the __________ of the economy. ",
+    answer: "resuscitation",
     options: [
-      "constraint",
-      "lacerate",
-      "macerate",
-      "wrest"
+      "ingratiation",
+      "temerity",
+      "resuscitation",
+      "extradition"
     ]
   },
   {
     id: 7,
-    question: "That year, there was a national _________ with dances and ceremonies.",
-    answer: "powwow",
+    question: "Lest economists feel too ________ about the virtues of markets, one should also acknowledge that markets do not always get it right.",
+    answer: "sanguine",
     options: [
-      "genocide",
-      "salvation",
-      "perpetuity",
-      "powwow"
+      "elapsed",
+      "ambivalent",
+      "amicable",
+      "sanguine"
     ]
   },
   {
     id: 8,
-    question: "We were not surprised when the film’s villain removed his dagger from his _________ and stabbed the priest.",
-    answer: "scabbard",
+    question: "By stepping forward with her story, she might have been trying merely to ________ herself with those who were monitoring her in the new environment.",
+    answer: "ingratiate",
     options: [
-      "premise",
-      "mar",
-      "furrow",
-      "scabbard"
+      "undercut",
+      "ingratiate",
+      "caulk",
+      "mitigate"
     ]
   },
   {
     id: 9,
-    question: "Despite Marilyn’s high grade, the professor remained _________ in his assessment of her academic skill. ",
-    answer: "fastidious",
+    question: "Unlike more typically-developing age mates, the late talkers do not ' comprehend ' the object names when given shape __________. ",
+    answer: "caricatures",
     options: [
-      "cadaverous",
-      "palliative",
-      "fastidious",
-      "protean"
+      "caricatures",
+      "upshots",
+      "berets",
+      "gaffe"
     ]
   },
   {
     id: 10,
-    question: "Even though the Chateau is one of the _________ hotels in the state, it has never been mentioned in any of the best of the nation lists. ",
-    answer: "preeminent",
+    question: "He had no desire to ________ herself in lengthy lawsuits with the tabloid newspapers.",
+    answer: "embroil",
     options: [
-      "preeminent",
-      "bizarre",
-      "rekindle",
-      "benighted"
+      "deploy",
+      "portent",
+      "embroil",
+      "gaffe"
     ]
   },
   {
     id: 11,
-    question: "Can you help the poor man over there with some of the __________ lotion that we have? He has a bad knee. ",
-    answer: "palliative",
+    question: "Two versions of the vaccine have been shown in trials to be between 90% and 95% __________. ",
+    answer: "efficacious",
     options: [
-      "lucrative",
-      "potent",
-      "palliative",
-      "sere"
+      "ambiguous",
+      "portent",
+      "ambivalent",
+      "efficacious"
     ]
   },
   {
     id: 12,
-    question: "After examining Jennifer’s hand from every angle, the nurse said that the _________ would heal by itself and that stitches were unnecessary.   ",
-    answer: "laceration",
+    question: "Aside from many inadequacies in relating the work to the relevant literature, this book is marred by numerous technical errors and __________.  ",
+    answer: "gaffes",
     options: [
-      "genocide",
-      "laceration",
-      "heed",
-      "macerate"
+      "berets",
+      "gaffes",
+      "bane",
+      "lambasts"
     ]
   },
   {
     id: 13,
-    question: "I have an idea for a book, but it is still in its _________ stage and I need to put a lot more thought into it before it is ready.",
-    answer: "embryonic",
+    question: "Such _________ is usually met by some kind of counter-attack, and at the very least a great deal of biting back.",
+    answer: "temerity",
     options: [
-      "embryonic",
-      "lucrative",
-      "superficial",
-      "exorbitant"
+      "temerity",
+      "sanguine",
+      "mitigation",
+      "parity"
     ]
   },
   {
     id: 14,
-    question: "Jessica has decided to attend the Halloween party dressed as the __________ creature known as the unicorn. ",
-    answer: "chimerical",
+    question: "The Saturday night sale can best be described as a buying _________. ",
+    answer: "frenzy",
     options: [
-      "marshal",
-      "chimerical",
-      "disheveled",
-      "moralistic"
+      "bane",
+      "forthright",
+      "beret",
+      "frenzy"
     ]
   },
   {
     id: 15,
-    question: "Plantation owners viewed slaves as __________ animals who had to be told what to do at every moment. ",
-    answer: "benighted",
+    question: "But to make the general __________ that it is a management attitude to cut corners on safety is quite woeful and out of touch with the truth. ",
+    answer: "lambast",
     options: [
-      "imperturtable",
-      "benighted",
-      "rekindle",
-      "perpetuable"
+      "dilemma",
+      "lambast",
+      "altruism",
+      "upshot"
     ]
   },
   {
     id: 16,
-    question: "This will be a unique opportunity to return to school and there will be lots of time to meet old friends and __________ memories.",
-    answer: "rekindle",
+    question: "The relationship between magnetiser and subject remained therefore __________: how could it be proved that the subject was not really duping the magnetiser?",
+    answer: "ambivalent",
     options: [
-      "annex",
-      "mar",
-      "rekindle",
-      "eradicate"
+      "frenzy",
+      "temerity",
+      "ambivalent",
+      "efficacious"
     ]
   },
   {
     id: 17,
-    question: "Wheat grains possess a ________ running along the length of the kernel with a vascular bundle embedded at the bottom.",
-    answer: "furrow",
+    question: "What do these levels tell us about the __________ conditions of power?",
+    answer: "discursive",
     options: [
-      "furrow",
-      "vie",
-      "marshal",
+      "discursive",
+      "retiring",
+      "undercut",
       "heed"
     ]
   },
   {
     id: 18,
-    question: "Yet for many making the link, it is undoubtedly his __________ rather than consistency of play that informs comparisons with the people having hot headed assumptions.",
-    answer: "imperturbability",
+    question: "The __________ relationship between the two parties, however, could not last long.",
+    answer: "amicable",
     options: [
-      "constraint",
-      "imperturbability",
-      "salvation",
-      "devour"
+      "extradite",
+      "frenzy",
+      "analogue",
+      "amicable"
     ]
   },
   {
     id: 19,
-    question: "The wealthy businessman was constantly on the lookout for _________ ventures that would help him become even wealthier.",
-    answer: "lucrative",
+    question: "Only in the case of carbon monoxide does this conclusion not seem to hold, possibly because _________ measures are much more limited.",
+    answer: "mitigation",
     options: [
-      "lacerative",
-      "powwow",
-      "exorbitant",
+      "mitigation",
+      "forthright",
+      "contrive",
       "lucrative"
     ]
   },
   {
     id: 20,
-    question: "Since James is a swimming champion, it would do you well to _________ his advice on refining your stroke. ",
-    answer: "heed",
+    question: "For out-of-equilibrium governments, this is a/an __________ since experimentation reveals that changing the magnitude of shocks to party positions does not uniformly change robustness levels.",
+    answer: "imponderable",
     options: [
-      "heed",
-      "vie",
-      "accost",
-      "rekindle"
+      "imponderable",
+      "discursive",
+      "efficacy",
+      "embroil"
     ]
   }
 ];
